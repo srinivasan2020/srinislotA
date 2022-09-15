@@ -1,0 +1,20 @@
+<div class="container">
+   <h1>Srinivas</h1>
+   <h3>Personal Profile</h3>
+   <a href="https://imgbb.com/"><img src="https://i.ibb.co/pdJfzx9/profile-picture.jpg" alt="profile-picture" border="0" /></a>
+   <h4>About Me</h4>
+   <p>Hi, I'm Srinivas, I have a huge passion for web-development and programming. I love to learn from challenges.</p>
+   <h4>My Skills</h4>
+   <div class="listFlex">
+      <div>
+         <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>C#</li>
+         </ul>
+      </div>
+   </div>
+   <h4>Social Media</h4>
+   Catch me on Instagram - <a href="">@srini</a>
+</div>
